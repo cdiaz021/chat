@@ -30,6 +30,7 @@ public class ChatActivity extends AppCompatActivity {
         linkViews();
         loadViews();
         setListeners();
+
     }
 
     private void linkViews(){
